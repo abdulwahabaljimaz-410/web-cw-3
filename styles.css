@@ -1,0 +1,18 @@
+img{
+    display: block;
+}
+.list{
+    list-style-type: none;
+}
+.blue{
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+table{border: black solid;}
+tr{border: black solid;}
+td{border: black solid;}
